@@ -82,7 +82,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown('<a id="inicio"></a><br><br>', unsafe_allow_html=True)
-st.image('img/Encabezado.png')
+st.image('Img/Encabezado.png')
 
 ########################################################################
 #                        ATRIBUTOS DEL DATASET                         #
